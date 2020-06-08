@@ -6,3 +6,5 @@ Class CSocklzf：Version 1.0
 Author：veis
 博客：https://www.cnblogs.com/veis/
 ```
+
+说明：欢迎继续完善和修正错误
